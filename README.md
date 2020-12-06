@@ -2,7 +2,7 @@
 
 ### I do :
 
-![Rstudio](https://img.shields.io/badge/-RStudio-red?style=flat&logo=r)
+![Rstudio](https://img.shields.io/badge/-RStudio-darkred?style=flat&logo=r)
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-darkviolet?style=flat&logo=ubuntu)
 ![Keras](https://img.shields.io/badge/-Keras-darkred?style=flat&logo=keras)
