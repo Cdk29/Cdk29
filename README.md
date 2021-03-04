@@ -14,5 +14,3 @@
 ![fastai](https://img.shields.io/badge/-fastai-darkred?style=flat&logo=pytorch)
 
 ### My orcid : https://orcid.org/0000-0002-0980-4318
-
-### You can find repository about kaggle competitions below.
