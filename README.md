@@ -15,4 +15,4 @@
 
 ### My orcid : https://orcid.org/0000-0002-0980-4318
 
-### You can find repository about kaggle competitions below:
+### You can find repository about kaggle competitions below.
